@@ -2,7 +2,7 @@
 
 💡  I like to explore new technologies and develop software solutions and quick hacks.
 
-🎓  I'm currently Student of CSE at Galgotias University University .
+🎓  I'm currently Student of CSE at Galgotias University .
 
 🌱  I'm on track for learning more about DSA and Web Devlopment.
 
