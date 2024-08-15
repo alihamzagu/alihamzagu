@@ -16,4 +16,11 @@
 
 👦   Call me He / Him
 
+🛠  Tech Stack 
+
+HTML  CSS  JavaScript 
+
+React  Node.js
+Git  GitHub  Visual Studio Code 
+
 
